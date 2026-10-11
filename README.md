@@ -140,13 +140,5 @@ npx @modelcontextprotocol/inspector python server.py
 - [ ] Реализация функции search_tasks.
 - [ ] Поддержка асинхронной проверки нескольких URL.
 
----
 
-## Команды для деплоя на GitHub
 
-git init
-git add .
-git commit -m "feat: initial commit for mcp-dev-assistant"
-git branch -M main
-git remote add origin https://github.com/ТВОЙ_ЛОГИН_GITHUB/mcp-dev-assistant.git
-git push -u origin main
